@@ -6,7 +6,7 @@ public class File2 {
 	public static void main(String[] args) {
 		System.out.println(7);  // 遠端master，修改File2檔案，第7行程式
 		System.out.println(8);  // 遠端master，修改File2檔案，第8行程式
-		
+		System.out.println(9);  // 遠端master，修改File2檔案，第9行程式
 		
 		
 		
