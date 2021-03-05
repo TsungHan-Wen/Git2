@@ -9,7 +9,7 @@ public class GitTest {
 		System.out.println(9);  // version1.3-1，遠端master，修改第9行程式 -->解決衝突後	
 		System.out.println(10); // version1.3-2，本地分支，修改第10行程式，再merge到本地master -->解決衝突後
 		
-		
+		System.out.println(12); // version1.5-2，遠端master，修改第12行程式
 		
 		
 		
